@@ -1,3 +1,9 @@
+---
+title: Markdown CheatSheet
+slugs: mdcheat-sheet
+tag_list: ['cheatsheets', 'markdown', 'code', 'programming']
+date: 2020-12-20
+---
 ----
 # Markdown CheatSheet
 
