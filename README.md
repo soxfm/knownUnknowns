@@ -1,19 +1,38 @@
 # knownUnknowns
 
-----
-#### A Tribute to the World's Greatest Politician.
+---
 
 **"All generalizations  are false"**
 __"Including this one "__
 
-'Subject: **What your Known**' : "As we know, there are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns—the ones we don’t know we don’t know." and you can only know more about those things imagining what they might be." - Donald Rumsfeld 
+'Subject': **What your Known**' : "As we know, there are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns—the ones we don’t know we don’t know." and you can only know more about those things imagining what they might be." 
+- US. Secretary of State : Donald Rumsfeld 
 
------
-	# ** THE RULES **
-----
-	### Basic Principles
-	Core Foundation for achieving, over-achieving, succeeding, attaining greatness; -- enforcement of these rules throughout life is paramount for both learning and life achievements.
-		
+__Original Full Text__
+
+  "Reports that say that something hasn't happened are always interesting to me, because as we know, there are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns—the ones we don't know we don't know. And if one looks throughout the history of our country and other free countries, it is the latter category that tends to be the difficult ones"
+
+> Known unknowns refers to "risks you are aware of, such as canceled flights; weather fluctuation which could pose a risky outcomes or other generalized daily uncontrollables. 
+
+> **Unknown Unknowns** are risks that come from situations whose improbability is so great that; -- their mere existence or possibility of occurence may be able to skip your imagination. These, are the either: revolutionary ideas which might've changed/impacted the world and its progression (eg.personal computer) or, __"given that there has been no prior experience which resembles the phenomenom in question; -- have no prior theoretical basis within existence.__
+
+Expanding upon Rummy's princinples.
+
+> Psychoanalytic philosopher Slavoj Žižek says that beyond these three categories there is a fourth, the unknown known, that which we intentionally refuse to acknowledge that we know: "If Rumsfeld thinks that the main dangers in the confrontation with Iraq were the 'unknown unknowns', that is, the threats from Saddam whose nature we cannot even suspect, then the Abu Ghraib scandal shows that the main dangers lie in the "unknown knowns"—the disavowed beliefs, suppositions and obscene practices we pretend not to know about, even though they form the background of our public values"
+
+---
+
+NOTE: The Underlying Principles, were put together and conveyed by 'GR'; the overall idea here is that "ego" is the enemy. However, as provided by modern cognitive psychology and also emphasized throughout the life of Friedriche Nietszche ( read: "Beyond Good and Evil" ); -- the 'Ego' itself is not your enemy. It's existence is part of you and most human attempts concerned with either ignoring or separting yourself from your own ego results in major mental ilness( ie. schizophrenia ). The idea here is not to bypass or fight your ego but to acknowledge what it is trying to tell you. Most times, it is merely a manifestation of certain insecurities, concerns or, reminders which point to something meaningful.
+
+** Regardless of whatever basic principle you come to find interesting; one should always rule above all else: "Harmony within reflects harmony throughin and throughout. Strive for harmony and compassion within while living above your own demons. "
+
+#### ** Basic Principles *
+---
+
+  - "Never underestimate anyone whom you come in contact with."
+  - "Don't make the classic smart person's mistake: 'Thinking that you're smarter than everyone else."
+  - "Hope, despite being warm and fuzzy; -- is **not** a plan."
+  -  		
 	- "Always Protect your Investment."
 	- "In every Game or Con there is always a Victim and an Opponent; the trick is to know when you're the latter so that you can become, the former."
 ----	
