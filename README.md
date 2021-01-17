@@ -26,7 +26,7 @@ NOTE: The Underlying Principles, were put together and conveyed by 'GR'; the ove
 
 ** Regardless of whatever basic principle you come to find interesting; one should always rule above all else: "Harmony within reflects harmony throughin and throughout. Strive for harmony and compassion within while living above your own demons. "
 
-#### ** Basic Principles *
+#### ** Basic Principles **
 ---
 
   - "Never underestimate anyone whom you come in contact with."
