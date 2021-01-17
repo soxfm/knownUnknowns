@@ -1,0 +1,81 @@
+# Machine Learning Resources 
+---
+
+### Link List
+
+no particular order.
+
+- Neural Networks and Deep Learning book](http://neuralnetworksanddeeplearning.com/)
+- [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+- [Ask HN: Best way to get started with AI?](https://news.ycombinator.com/item?id=15689399)
+- [Ask HN: What maths are critical to pursuing ML/AI?](https://news.ycombinator.com/item?id=15116379)
+- [Ask HN: 'Crash Courses' for Mathematics Related to DL, ML and Data Analysis](https://news.ycombinator.com/item?id=16508873)
+- [Computational Statistics and Machine Learning Revision Notes](https://github.com/acbraith/CSML_notes)
+- [Stanford CS229 course](https://github.com/econti/cs229)
+- [Readings in applied data science](https://github.com/hadley/stats337)
+- [Learn ML in 3 months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months)
+- [Deep Learn](https://github.com/GauravBh1010tt/DeepLearn) - Implementation of research papers on Deep Learning+ NLP+ CV in Python using Keras, TensorFlow and Scikit Learn.
+- [Fermat's Library NIPS comments](http://fermatslibrary.com/nips)
+- [Heroes of Deep Learning: Andrew Ng interviews Ian Goodfellow](https://www.youtube.com/watch?v=pWAc9B2zJS4)
+- [Machine Learning for Humans](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12) - Great article.
+- [Deep Learning for Siri’s Voice: On-device Deep Mixture Density Networks for Hybrid Unit Selection Synthesis](https://machinelearning.apple.com/2017/08/06/siri-voices.html)
+- [The Google Brain Team — Looking Back on 2017](https://ai.googleblog.com/2018/01/the-google-brain-team-looking-back-on.html?m=1)
+- [Building the Software 2.0 Stack by Andrej Karpathy from Tesla (2018)](https://www.figure-eight.com/building-the-software-2-0-stack-by-andrej-karpathy-from-tesla/)
+- [Deep Learning World](https://github.com/astorfi/Deep-Learning-World)
+- - [Machine Learning cheatsheets for Stanford's CS 229](https://github.com/afshinea/stanford-cs-229-machine-learning)
+- - [RAAIS 2018 - François Chollet (Creator of Keras)](https://www.youtube.com/watch?v=2L2u303FAs8)
+- [KubeFlow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes. ([Winding Road to Better Machine Learning Infrastructure Through Tensorflow Extended and Kubeflow](https://engineering.atspotify.com/2019/12/13/the-winding-road-to-better-machine-learning-infrastructure-through-tensorflow-extended-and-kubeflow/))
+- [MIT AGI: Deep Learning (Yoshua Bengio) (2018)](https://www.youtube.com/watch?v=azOmzumh0vQ)
+- [TL-GAN: transparent latent-space GAN](https://github.com/SummitKwan/transparent_latent_gan) - Use supervised learning to illuminate the latent space of GAN for controlled generation and edit.
+- [Grokking Deep Learning](https://github.com/iamtrask/Grokking-Deep-Learning) - Repository accompanying "Grokking Deep Learning" book.
+- [All You Need to Know About Deep Learning - A kick-starter (2019)](https://github.com/osforscience/deep-learning-ocean)
+- [KubeFlow Pipelines](https://github.com/kubeflow/pipelines) - Machine learning (ML) toolkit that is dedicated to making deployments of ML workflows on Kubernetes simple, portable, and scalable.
+- [Summary of some ML papers](https://github.com/kweonwooj/papers)
+- [Practical Deep Learning for Coders 2019](https://www.fast.ai/2019/01/24/course-v3/) - ([HN](https://news.ycombinator.com/item?id=19000027)) ([GitHub](https://github.com/fastai/course-v3))
+- [Notebooks for the "A walk with fastai2" Study Group and Lecture Series](https://github.com/muellerzr/Practical-Deep-Learning-for-Coders-2.0)
+- [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html) ([HN](https://news.ycombinator.com/item?id=21661545))
+- [Machine Learning Feynman Experience](https://github.com/leandromineti/ml-feynman-experience) - Collection of concepts I tried to implement using only Python, NumPy and SciPy on Google Colaboratory.
+- [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor) - Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
+- [Deep learning drizzle](https://deep-learning-drizzle.github.io/) - Various ML, reinforcement learning video lectures. ([Code](https://github.com/kmario23/deep-learning-drizzle))
+- [Xfer](https://github.com/amzn/xfer) - Transfer Learning library for Deep Neural Networks.
+- [List of summer schools in machine learning + related fields](https://github.com/sshkhr/awesome-mlss)
+- [Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
+- [Machine Learning CS Columbia Course (2019)](http://www.cs.columbia.edu/%7Everma/classes/ml/index.html)
+- [Learning to Discover Efficient Mathematical Identities](https://github.com/kkurach/math_learning) - Exploring how machine learning techniques can be applied to the discovery of efficient mathematical identities.
+- [CleverHans](https://github.com/tensorflow/cleverhans) - Adversarial example library for constructing attacks, building defenses, and benchmarking both.
+- TinyFlow](https://github.com/tqchen/tinyflow) - Tutorial code on how to build your own Deep Learning System in 2k Lines.
+- [Deep Learning Models](https://github.com/rasbt/deeplearning-models) - Collection of various deep learning architectures, models, and tips.
+- - [Solution of assignment in 2011 Stanford Machine Learning Class](https://github.com/everpeace/ml-class-assignments)
+- [Autocompletion with deep learning (2019)](https://tabnine.com/blog/deep)
+- [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
+- [Python Machine Learning book](https://www.goodreads.com/book/show/25545994-python-machine-learning) ([Code](https://github.com/rasbt/python-machine-learning-book-2nd-edition))
+- [ML and DS Applications in Industry](https://github.com/firmai/industry-machine-learning) - Curated list of applied machine learning and data science notebooks and libraries across different industries.
+- [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning)
+- [Awesome Gradient Boosting Research Papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
+- [HoloClean](https://github.com/HoloClean/holoclean) - Machine Learning System for Data Enrichment.
+- [Snorkel](https://github.com/snorkel-team/snorkel) - System for quickly generating training data with weak supervision.
+- [RAdam](https://github.com/LiyuanLucasLiu/RAdam) - On The Variance Of The Adaptive Learning Rate And Beyond.
+-  [Introduction to Deep Learning - Eugene Charniak](https://mitpress.mit.edu/books/introduction-deep-learning) - Project-based guide to the basics of deep learning.
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.goodreads.com/book/show/40363665-hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow)
+- [Topological Techniques for Unsupervised Learning (2019)](https://www.youtube.com/watch?v=7pAVPjwBppo)
+- [Meet AdaMod: a new deep learning optimizer with memory (2020)](https://medium.com/@lessw/meet-adamod-a-new-deep-learning-optimizer-with-memory-f01e831b80bd)
+- [Deep Learning State of the Art (2020)](https://www.youtube.com/watch?v=0VH1Lim8gL8)
+- [The Case for Bayesian Deep Learning (2020)](https://cims.nyu.edu/~andrewgw/caseforbdl/) ([HN](https://news.ycombinator.com/item?id=22023490)) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/eng1gl/the_case_for_bayesian_deep_learning/))
+- [Machine Learning Summer School (2020)](http://mlss.tuebingen.mpg.de/2020/)
+- [Machine Learning Summer School videos (2009)](http://videolectures.net/mlss09uk_cambridge/)
+- [Turi Create](https://github.com/apple/turicreate) - Simplifies the development of custom machine learning models.
+- [Private machine learning progress](https://github.com/OpenMined/private-ai-resources)
+- [Demucs](https://github.com/facebookresearch/demucs) - Code for the paper Music Source Separation in the Waveform Domain.
+- [Apple at NeurIPS 2019](https://machinelearning.apple.com/2019/12/02/apple-at-neurips-2019.html)
+- [Magenta](https://magenta.tensorflow.org/) - Make Music and Art Using Machine Learning.
+- - [Awesome AutoML Papers](https://github.com/hibayesian/awesome-automl-papers) - Curated list of automated machine learning papers, articles.
+- [Machine Learning Systems Design at Stanford course (2020)](https://huyenchip.com/2020/10/27/ml-systems-design-stanford.html)
+- [Preferred Networks](https://preferred.jp/en/) - Develops practical applications of deep learning and other cutting-edge technologies. ([GitHub](https://github.com/pfnet))
+- [ML Art](https://mlart.co/) - Curated showcase of creative machine learning artworks and projects.
+- [Decision Making under Uncertainty course](https://web.stanford.edu/class/aa228/cgi-bin/wp/) ([Algorithms for Decision Making book](https://github.com/sisl/algorithmsbook/)) ([Concise Deep Learning Overview (2020)](https://web.stanford.edu/group/sisl/public/dm/chapter-31.pdf) ([HN](https://news.ycombinator.com/item?id=24908999))) ([Book Website](https://algorithmsbook.com/))
+- [Effective testing for machine learning systems (2020)](https://www.jeremyjordan.me/testing-ml/)
+- - [Best of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python)
+- [Deep Learning's Most Important Ideas - A Brief Historical Review (2020)](https://dennybritz.com/blog/deep-learning-most-important-ideas/)
+- 
+- [Awesome AutoML](https://github.com/windmaple/awesome-AutoML)
+
