@@ -1,0 +1,21 @@
+# Schrodinger's Cat
+## Overview
+
+In quantum mechanics, Schrödinger's cat is a thought experiment that illustrates an apparent paradox of quantum superposition. In the thought experiment, a hypothetical cat may be considered simultaneously both alive and dead as a result of being linked to a random subatomic event that may or may not occur.
+
+This thought experiment was devised by Austrian-Irish physicist Erwin Schrödinger in 1935,[1] in a discussion with Albert Einstein.[2] to illustrate what Schrödinger saw as the problems of the Copenhagen interpretation of quantum mechanics. The scenario is often featured in theoretical discussions of the interpretations of quantum mechanics, particularly in situations involving the measurement problem. 
+
+### Thought Experiment
+---
+
+Schrödinger wrote:[1][8]
+
+    One can even set up quite ridiculous cases. A cat is penned up in a steel chamber, along with the following device (which must be secured against direct interference by the cat): in a Geiger counter, there is a tiny bit of radioactive substance, so small, that perhaps in the course of the hour one of the atoms decays, but also, with equal probability, perhaps none; if it happens, the counter tube discharges and through a relay releases a hammer that shatters a small flask of hydrocyanic acid. If one has left this entire system to itself for an hour, one would say that the cat still lives if meanwhile no atom has decayed. The first atomic decay would have poisoned it. The psi-function of the entire system would express this by having in it the living and dead cat (pardon the expression) mixed or smeared out in equal parts.
+
+    It is typical of these cases that an indeterminacy originally restricted to the atomic domain becomes transformed into macroscopic indeterminacy, which can then be resolved by direct observation. That prevents us from so naïvely accepting as valid a "blurred model" for representing reality. In itself, it would not embody anything unclear or contradictory. There is a difference between a shaky or out-of-focus photograph and a snapshot of clouds and fog banks.
+
+Schrödinger's famous thought experiment poses the question, "when does a quantum system stop existing as a superposition of states and become one or the other?" (More technically, when does the actual quantum state stop being a non-trivial linear combination of states, each of which resembles different classical states, and instead begin to have a unique classical description?) If the cat survives, it remembers only being alive. But explanations of the EPR experiments that are consistent with standard microscopic quantum mechanics require that macroscopic objects, such as cats and notebooks, do not always have unique classical descriptions. The thought experiment illustrates this apparent paradox. Our intuition says that no observer can be in more than one state simultaneously—yet the cat, it seems from the thought experiment, can be in such a condition. Is the cat required to be an observer, or does its existence in a single well-defined classical state require another external observer? Each alternative seemed absurd to Einstein, who was impressed by the ability of the thought experiment to highlight these issues. In a letter to Schrödinger dated 1950, he wrote:
+
+    You are the only contemporary physicist, besides Laue, who sees that one cannot get around the assumption of reality, if only one is honest. Most of them simply do not see what sort of risky game they are playing with reality—reality as something independent of what is experimentally established. Their interpretation is, however, refuted most elegantly by your system of radioactive atom + amplifier + charge of gun powder + cat in a box, in which the psi-function of the system contains both the cat alive and blown to bits. Nobody really doubts that the presence or absence of the cat is something independent of the act of observation.[9]
+
+Note that the charge of gunpowder is not mentioned in Schrödinger's setup, which uses a Geiger counter as an amplifier and hydrocyanic poison instead of gunpowder. The gunpowder had been mentioned in Einstein's original suggestion to Schrödinger 15 years before, and Einstein carried it forward to the present discussion. 
