@@ -6,7 +6,7 @@ date: 2020-1-15
 ---
 # General Quotes 
 ### Uncategorized.
----
+--- 
 
   this is a list of remarks and quotes made generally, by other people, and which
   i, particularly find/found interesting and/or useful.
