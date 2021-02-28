@@ -2,6 +2,8 @@
 
 ## Links
 
+- [Private.sh](https://private.sh/) - "The search engine that cryptographically protects your privacy"
+-
 - [Algolia](https://www.algolia.com/) - Site Search & Discovery powered by AI.
 - [Toshi](https://github.com/toshi-search/Toshi) - Full-text search engine in rust.
 - [Sonic](https://github.com/valeriansaliou/sonic) - Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.

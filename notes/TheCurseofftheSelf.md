@@ -24,4 +24,4 @@ For example, we can imagine a mind that can make accurate theories/predictions a
 
 The book then rambles on through the disadvantages of ‘the self’, such as self-serving biases, self-chatter, interference with practiced skills, many of which seem to have little connection even with the authors definition of self. It’s a morass of linguistic confusion, held together only by the fact that the language it’s written in came long before any kind of understanding of cognition and so happens to use the same word for many different capabilities and experiences. They intuitively feel connected, but it falls apart as soon as one tries to imagine the underlying machinery.
 
-Not every book has to be rigorous, but this book doesn’t have anything else to offer. No interesting thesis. No actionable advice. Nothing to take away.
+Not every book has to be rigorous, but this book doesn’t have anything else to offer. No interesting thesis. No actionable advice. Nothing to take away.s
