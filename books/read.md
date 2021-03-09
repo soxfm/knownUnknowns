@@ -1,15 +1,34 @@
-# List of Books to Be Read
----
-
-No Particular Order
-
+# Reading/Read/Re-Read
 ---
 
  > This sections should somehow link to the main page. (Main)(https://github.com/soxfm/KnownUnkowns)
 
+## No Particular Order
+
 ---
 
-  ## LastUpdated: Feb-26-2021
+### Category: Non-fiction
+
+  - The Big Short - Michael Lewis
+  - Liars Poker - Michael Lewis
+  - MoneyBall: The art of Winning at un unfair Game - Michael Lewis
+  - David & Goliath - Malcolm Gladwell
+  - Blink - Malcolm Gladwell
+  - The Tipping Point - Malcom Gladwell
+  - Moral Tribes - Joshua Greene (Not really a novel but a great read)
+  - The Signal and The Noise : "Why So many predictions fail and some dont" - Nate Silver (Probability and Bayesian statistics) 
+  - The Feeling of What Happens - Antonio Damasio
+  - Steven Pinker : All of them
+  - The Virtue of Selfishness - Ayn Rand
+  - For the New Intellectual - Ayn Rand
+  - Objectivist Epistemology - Ayn Rand
+  - Tabula Rasa - Steven Pinkerr
+  - The Stuff of Thought - Steven Pinker
+  - Flash Boys : A Wall Street Revolt - Michael Lewis
+
+---
+
+### Category: Nerdy? :P
 
   - (Lectures on Probability Theory and Mathematical Statistics - 3rd Edition by Marco Taboga Paperback)[https://www.amazon.com/gp/product/1981369198/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1981369198&linkCode=as2&tag=lectuonprobas-20&linkId=349b66a13cab44930748b1dda41f2395]
   - (Introduction to Probability, Statistics, and Random Processes by Hossein Pishro-Nik Paperback)[https://www.amazon.com/Introduction-Probability-Statistics-Random-Processes/dp/0990637204/ref=pd_bxgy_2/145-3265580-6976823?_encoding=UTF8&pd_rd_i=0990637204&pd_rd_r=f28d2ef3-d927-44fe-8c01-eef95fd14387&pd_rd_w=YhL5a&pd_rd_wg=MExKh&pf_rd_p=f325d01c-4658-4593-be83-3e12ca663f0e&pf_rd_r=WMT3CQJHZ60CQ8NPZ1PM&psc=1&refRID=WMT3CQJHZ60CQ8NPZ1PM]
