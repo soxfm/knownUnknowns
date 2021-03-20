@@ -4,6 +4,10 @@
 
 ---
 
+# The Meaning of a 'HACK'
+> “The word hack doesn't really have 69 different meanings”, according to MIT hacker Phil Agre. “In fact, hack has only one meaning, an extremely subtle and profound one which defies articulation. Which connotation is implied by a given use of the word depends in similarly profound ways on the context. Similar remarks apply to a couple of other hacker words, most notably random.”
+> Hacking might be characterized as ‘an appropriate application of ingenuity’. Whether the result is a quick-and-dirty patchwork job or a carefully crafted work of art, you have to admire the cleverness that went into it.
+
 ## BASIS
 
 > "For those who stubbornly seek freedom, there can be no more urgent task than to come to understand the mechanisms and practices of indoctrination. These are easy to perceive in the totalitarian socities, much less so in the systems of 'brainwashing under freedom' to which we are subjected and which all to often we serve as willing or unwitting instruments"
