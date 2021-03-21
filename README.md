@@ -1,6 +1,6 @@
 # knownUnknowns
 ---
-> "What we do in life; - echoes in eternity." - Maximus Decimus Meriridius
+> **"What we do in life; - echoes in eternity."** - Maximus Decimus Meriridius
 ---
 
 # The Meaning of a 'HACK'
