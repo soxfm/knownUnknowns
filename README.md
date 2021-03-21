@@ -1,34 +1,28 @@
 # knownUnknowns
-
-> "Be First, Be Smarter or, Cheat"
-
+---
+> "What we do in life; - echoes in eternity." - Maximus Decimus Meriridius
 ---
 
 # The Meaning of a 'HACK'
+---
 > “The word hack doesn't really have 69 different meanings”, according to MIT hacker Phil Agre. “In fact, hack has only one meaning, an extremely subtle and profound one which defies articulation. Which connotation is implied by a given use of the word depends in similarly profound ways on the context. Similar remarks apply to a couple of other hacker words, most notably random.”
 > Hacking might be characterized as ‘an appropriate application of ingenuity’. Whether the result is a quick-and-dirty patchwork job or a carefully crafted work of art, you have to admire the cleverness that went into it.
 
-## BASIS
-
-> "For those who stubbornly seek freedom, there can be no more urgent task than to come to understand the mechanisms and practices of indoctrination. These are easy to perceive in the totalitarian socities, much less so in the systems of 'brainwashing under freedom' to which we are subjected and which all to often we serve as willing or unwitting instruments"
+### BASIS
 > "For those who stubbornly seek freedom, there can be no more urgent task than to come to understand the mechanisms and practices of indoctrination. These are easy to perceive in the totalitarian socities, much less so in the systems of 'brainwashing under freedom' to which we are subjected and which all to often we serve as willing or unwitting instruments"
   - 'Noam Chomksy'
-
 ---
 
-
+##### Rumself's Rules
 **"All generalizations  are false"**
 __"Including this one "__
 
 'Subject': **What your Known**' : "As we know, there are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns—the ones we don’t know we don’t know." and you can only know more about those things imagining what they might be." 
-- US. Secretary of State : Donald Rumsfeld 
+- US. Secretary of State : Donald Rumsfeld
 
 __Original Full Text__
-
-  "Reports that say that something hasn't happened are always interesting to me, because as we know, there are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns—the ones we don't know we don't know. And if one looks throughout the history of our country and other free countries, it is the latter category that tends to be the difficult ones"
-
+"Reports that say that something hasn't happened are always interesting to me, because as we know, there are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns—the ones we don't know we don't know. And if one looks throughout the history of our country and other free countries, it is the latter category that tends to be the difficult ones"
 > Known unknowns refers to "risks you are aware of, such as canceled flights; weather fluctuation which could pose a risky outcomes or other generalized daily uncontrollables. 
-
 > **Unknown Unknowns** are risks that come from situations whose improbability is so great that; -- their mere existence or possibility of occurence may be able to skip your imagination. These, are the either: revolutionary ideas which might've changed/impacted the world and its progression (eg.personal computer) or, __"given that there has been no prior experience which resembles the phenomenom in question; -- have no prior theoretical basis within existence.__
 
 Expanding upon Rummy's princinples.
@@ -41,7 +35,7 @@ NOTE: The Underlying Principles, were put together and conveyed by 'GR'; the ove
 
 ** Regardless of whatever basic principle you come to find interesting; one should always rule above all else: "Harmony within reflects harmony throughin and throughout. Strive for harmony and compassion within while living above your own demons. "
 
-#### ** Basic Principles **
+### ** Basic Principles **
 ---
 
   - "Never underestimate anyone whom you come in contact with."
